@@ -101,10 +101,12 @@
 		 <div class="form-group">
 		  <select class="form-control" id="sel1">
 		    <option>Please Select</option>
-		    <option>Newspapeer</option>
+		    
 		    <option>Magzine</option>
 		    <option>Internet</option>
 		    <option>Others(Please Specify)</option>
+		       <option>social media</option>
+		          <option>Mobile</option>
 		  </select>
 		</div>
 		<!--  <input type="email" class="form-control" id="usr" placeholder="ex:email@yahoo.com">
